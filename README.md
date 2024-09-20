@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Ergi
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on School hacker
-- 📫 How to reach me ergifelplani@gmail.com
-
+Hello this is Bypasser We Update Every Week! **[Our Last Free Update is V7]**
